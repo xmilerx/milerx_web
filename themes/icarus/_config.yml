@@ -18,7 +18,7 @@ customize:
         avatar: css/images/avatar.png
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: milerx
-        author_title: Miler
+        author_title: 本質的にマイラー
         location: Japan
         follow: https://github.com/xmilerx/
     highlight: monokai
@@ -47,7 +47,7 @@ search:
 
 # Comment
 comment:
-    disqus:  # enter disqus shortname here
+    disqus:  milerx # enter disqus shortname here
     duoshuo: # enter duoshuo shortname here
     youyan: # enter youyan uid here
     facebook: # enter true to enable
