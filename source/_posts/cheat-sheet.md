@@ -1,7 +1,9 @@
 ---
-title: cheat-sheet
+title: Markdownのチートシート
 date: 2018-02-02 01:10:19
 tags:
+- Markdown
+category: Technology
 thumbnail: /img/2018/2018-02-02/markdown.png
 ---
 このブログはhexoという静的サイトジェネレーターで作っています。
@@ -43,4 +45,3 @@ hexo-tocが必要
 `｛% twitter URL %｝`
 hexo-tag-twitterが必要。
 {% twitter https://twitter.com/x_miler/status/959232913995952128 %}
-

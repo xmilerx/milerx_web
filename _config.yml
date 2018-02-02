@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: マイラーの嘆き
+title: あるマイラーの憂鬱
 subtitle:
 description:
 author: milerx
-language: ja-jp
+language: ja
 timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://milers.netlify.com
+url: https://www.milerx.site
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
